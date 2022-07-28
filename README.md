@@ -10,3 +10,5 @@ Note: Contact number should be of 6 digits!!
 
 
 ***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
+
+<img src="images/img1.jpg"> <br/>
